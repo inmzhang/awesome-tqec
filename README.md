@@ -33,7 +33,6 @@ Understand the TQEC structure from the view of cluster state.
 
 - [Measurement-based quantum computation with cluster states](https://arxiv.org/abs/quant-ph/0301052)
 - [Topological cluster state quantum computing](https://arxiv.org/abs/0805.3202)
-computation.
 
 #### ZX-Calculus
 
