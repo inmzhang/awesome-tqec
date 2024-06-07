@@ -67,6 +67,11 @@ method.
 - [Almost-linear time decoding algorithm for topological codes](https://arxiv.org/abs/1709.06218)
 - [Fault-tolerant weighted union-find decoding on the toric code](https://link.aps.org/doi/10.1103/PhysRevA.102.012419) - Weighted union-find decoder.
 
+##### Tensor Network(TN)
+
+- [Efficient algorithms for maximum likelihood decoding in the surface code](10.1103/PhysRevA.90.032326) - MLD for surface code under code-capacity noise.
+- [Tensor Network Decoding Beyond 2D](http://arxiv.org/abs/2310.10722) - MLD for surface code under circuit-level noise.
+
 ##### Neural Network(NN)
 
 - [Learning to Decode the Surface Code with a Recurrent, Transformer-Based Neural Network](http://arxiv.org/abs/2310.05900)
@@ -81,6 +86,11 @@ method.
 
 - [Improved decoding of circuit noise and fragile boundaries of tailored surface codes](https://arxiv.org/abs/2203.04948) - Two-stage decoding combining
 belief propagation and MWPM/UF.
+
+#### Experiment
+
+- [Suppressing quantum errors by scaling a surface code logical qubit](https://www.nature.com/articles/s41586-022-05434-1) - Suppression of logical
+error when scaling surface code from distance 3 to 5.
 
 
 ## Software
@@ -121,6 +131,7 @@ introductory recordings and resources by Austin Fowler and other TQEC group memb
 and surface code computation by Craig Gidney.
 - [3D topological diagram explanation](https://docs.google.com/presentation/d/1IjZ-0W9Y22wNG5036WFnnkF5Az1Zt8jTHFTC1-e7Em4/edit?usp=sharing) - Unfinished
 slides of Craig Gidney to explain how to read topological diagram from [this post](https://quantumcomputing.stackexchange.com/questions/5280/reference-that-explains-how-to-read-3d-topological-diagrams-for-surface-code-com).
+- [QEC23](https://www.youtube.com/@QEC23) - Recording of 6th International Conference on Quantum Error Correction, some talks are about TQEC.
 
 ## Links
 
