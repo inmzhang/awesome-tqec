@@ -153,6 +153,10 @@ operations on a surface code lattice.
 - [ldpc](https://github.com/quantumgizmos/ldpc) - Belief propagation(BP) implementation, also include implementations for union-find, belief-find and more
 decoders(in the branch "release-v2").
 
+#### Evidence auditing and verification
+
+- [QEC Evidence Auditor — Standard Mathematical V1](https://github.com/cxclrfx/QEC-Evidence-Auditor) - Technical showcase of proprietary offline Auditor and Verifier programs for mathematical QEC artifacts, with five validation modes.
+
 ## Tutorials and Talks
 
 - [TQEC Group Meetings](https://docs.google.com/spreadsheets/d/11DSA2wzKLOrfTGNHunFvzsMYeO7jZ8Ny8kpzoC_wKQg/edit?resourcekey=0-PdGFkp5s-4XWihMSxk0UIg#gid=0) - Insightful
